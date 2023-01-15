@@ -1,40 +1,30 @@
-# Typing Speed Test for Web/Desktop ⌨
+# Flutter Typing Speed Test for Web/Desktop ⌨
 
-A web & desktop app made with ♥ & Flutter 💙, to test your typing speed and accuracy.
+A Flutter web & desktop app 💙, to test your typing speed and accuracy.
 
-Design inspired by: [typing.gg](https://typings.gg)
+Design inspired by: [typetest.io](https://typetest.io/)
 
-![Typing Speed Test for Desktop ⌨](thu.png)
-
-## 🌐 Preview on Web
-
-[**https://aymendn.github.io/typing-speed-test-flutter**](https://aymendn.github.io/typing-speed-test-flutter)
-
-## 📁 Download for Windows
-
-[CLICK HERE](https://raw.githubusercontent.com/aymendn/typing-speed-test-flutter/main/window-release.zip) to download.
+![Typing Speed Test flutter](https://user-images.githubusercontent.com/68671238/212552678-30600557-b652-499c-bb43-9326507662d7.png)
 
 ## ⚙ Installation steps
 
-You can copy anything from the code source.
-
-If you want to get the full project:
+If you want to run the app, follow the following steps:
 
 ```
-git clone https://github.com/aymendn/typing-speed-test-flutter.git
-cd typing-speed-test-flutter
-flutter packages get
+git clone https://github.com/aliMissaoui/Flutter-Typing-Speed-Test.git
+cd Flutter-Typing-Speed-Test
+flutter pub get
 flutter run
 ```
 
 ## 🧑 Author
 
-__Aymen Dennoub__
+__Ali Missaoui__
 
-If you liked the repo then kindly support it by giving it a star ⭐!
+If you found it helpful please give the repo a star ⭐ and share it with your friends!
 
 ## 🤝 Contribution
 
-- [fork my repository](https://github.com/aymendn/typing-speed-test-flutter/fork)
+- [fork my repository](https://github.com/aliMissaoui/Flutter-Typing-Speed-Test/fork)
 
-- [create issue](https://github.com/aymendn/typing-speed-test-flutter/issues/new)
+- [create issue](https://github.com/aliMissaoui/Flutter-Typing-Speed-Test/issues/new)
